@@ -1,2 +1,2 @@
 Care wise project details 
-Care wise prompts 
+Care wise prompts
